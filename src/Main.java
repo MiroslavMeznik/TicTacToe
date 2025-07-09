@@ -7,28 +7,6 @@ public class Main {
         System.out.println("3x3 Tic Tac Toe");
 
 //        //vytvorit pole pomocne vypocty a testy
-//        String[][] twoDStringArray = new String[3][3];
-//        for(String[] rowOfStrings : twoDStringArray) {
-//            for(String s : rowOfStrings) {
-//                System.out.println(s);
-//            }
-//        }
-
-// Vytvorenie a inicializácia 2D poľa
-//        int[][] matrix = {
-//                {1, 2, 3},
-//                {4, 5, 6},
-//                {7, 8, 9}
-//        };
-//
-//        // Alternatívny spôsob vytvorenia
-//        int[][] emptyMatrix = new int[3][3];
-//        emptyMatrix[0][0] = 1;
-//        emptyMatrix[1][1] = 5;
-//        emptyMatrix[2][2] = 9;
-//
-//        System.out.println("Základná matica 3x3:");
-//        print2DArray(emptyMatrix);
 
         int row = 3;
         int colums = 3;
